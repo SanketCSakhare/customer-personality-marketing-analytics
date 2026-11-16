@@ -8,14 +8,6 @@ Dataset source: [Customer Personality Analysis on Kaggle](https://www.kaggle.com
 
 Marketing teams need to understand which customers respond to campaigns, which products drive revenue, and which customer segments should receive targeted offers. This project converts customer-level transaction and campaign data into actionable marketing recommendations.
 
-## Why This Is a 10/10 Portfolio Project
-
-- Uses a recognised Kaggle marketing dataset.
-- Shows practical Marketing Data Analyst skills: segmentation, campaign response, customer value, channel performance, and product preference analysis.
-- Includes Python analysis, SQL queries, dashboard-ready CSV outputs, and business recommendations.
-- Produces recruiter-friendly charts directly in the README.
-- Includes a fallback demo dataset so the repo runs even before the Kaggle file is downloaded.
-
 ## Executive Summary
 
 This project answers four core marketing questions:
